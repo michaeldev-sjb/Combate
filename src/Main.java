@@ -49,5 +49,7 @@ public class Main {
             System.out.println(secondChampion.status());
         }
         System.out.println("\nFIM DO COMBATE");
+
+        sc.close();
     }
 }
